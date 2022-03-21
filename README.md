@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @b40deep
 - 💚 I'm a big fan of the arts - comics, video games, music, and how they are vehicles of worldviews.
-- 👀 I’m curious about how cars and tech are converging. And morality's place in tech (s/o to Tristan Harris).
-- 🌱 I’m currently learning React for front-end development.
-- 💞️ I’m looking to collaborate on web/mobile development, games, and ML.
-- 📫 How to reach me?  Send a bird🕊.
+- 👀 I’m curious about how humanity and tech are converging. And morality's place in tech (s/o to Tristan Harris).
+- 🌱 I’m currently doing a Masters in Advanced Computer Science @ Swansea Uni.
+- 💞️ I’m looking to collaborate on anything that helps people control tech and not the other way round.
+- 📫 How to reach me?  Send a letter📧.
 
 <!---
 b40deep/b40deep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
